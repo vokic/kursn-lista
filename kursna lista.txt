@@ -1,0 +1,46 @@
+<!--Datum-->
+
+<div class="container">
+  <b><p><center>Kursna lista za petak - 27. 04. 2018.</center></p></b>
+</div>
+
+<!--Valute-->
+
+<div class="container">
+<table class="table table-hover table-bordered">
+  <thead>
+    <tr class="bg-success">
+      <th scope="col">Valuta</th>
+      <th scope="col">Prodajni</th>
+      <th scope="col">Srednji</th>
+      <th scope="col">Kupovni</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">EUR</th>
+      <td>123.3</td>
+      <td>321.1</td>
+      <td>123.3</td>
+    </tr>
+    <tr>
+      <th scope="row">USD</th>
+      <td>123.3</td>
+      <td>321.1</td>
+      <td>123.3</td>
+    </tr>
+    <tr>
+      <th scope="row">CHF</th>
+      <td>123.3</td>
+      <td>321.1</td>
+      <td>123.3</td>
+    </tr>
+    <tr>
+      <th scope="row">GBP</th>
+      <td>123.3</td>
+      <td>321.1</td>
+      <td>123.3</td>
+    </tr>
+  </tbody>
+</table>
+</div>
